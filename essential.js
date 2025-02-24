@@ -12,7 +12,7 @@ function nextSlide() {
     updateCarousel();
 }
 
-// Move to the previous slide
+//LGTM
 function prevSlide() {
     currentIndex--;
     if (currentIndex < 0) {
